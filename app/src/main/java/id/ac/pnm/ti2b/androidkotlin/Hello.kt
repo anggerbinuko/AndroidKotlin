@@ -16,4 +16,3 @@ fun hobby(nama:String, desc:String){
     println("Saya punya hobby $nama")
     println("Hobby tersebut adalah $desc")
 }
-
